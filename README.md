@@ -1,10 +1,9 @@
 # codility-lessons
 
-My solutions to codility tasks
+This repository contains solutions to codility lessons and other algorithmic tasks.
+These tasks solutions are written in JavaScript and Python language.
 
-
-
-# Marcin's results:
+# Marcin's codility lessons results:
 * BinaryGap: https://app.codility.com/demo/results/trainingG5S5D6-ZKQ/
 * FrogJump: https://app.codility.com/demo/results/trainingPG5PZS-PEQ/
 * PermMissingElem: https://app.codility.com/demo/results/trainingCH6QZ8-SFG/
