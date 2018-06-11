@@ -1,7 +1,7 @@
-# codility-lessons
+# Codility lessons
 
 This repository contains solutions to codility lessons and other algorithmic tasks.
-These tasks solutions are written in JavaScript and Python language.
+These tasks solutions are written in JavaScript and Python languages.
 
 # Marcin's codility lessons results:
 * BinaryGap: https://app.codility.com/demo/results/trainingG5S5D6-ZKQ/
