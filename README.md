@@ -14,6 +14,7 @@ These tasks solutions are written in JavaScript and Python languages.
 * MaxCounters: https://app.codility.com/demo/results/training3F22V7-BDT/
 * CountDiv: https://app.codility.com/demo/results/trainingDBDDHU-CX5/
 * PassingCars: https://app.codility.com/demo/results/training7XZK4S-6J3/
+* GenomicRangeQuery: https://app.codility.com/demo/results/training34WW7J-8VJ/
 
 
 
