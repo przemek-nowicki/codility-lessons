@@ -15,6 +15,7 @@ These tasks solutions are written in JavaScript and Python languages.
 * CountDiv: https://app.codility.com/demo/results/trainingDBDDHU-CX5/
 * PassingCars: https://app.codility.com/demo/results/training7XZK4S-6J3/
 * GenomicRangeQuery: https://app.codility.com/demo/results/training34WW7J-8VJ/
+* MinAvgTwoSlice: https://app.codility.com/demo/results/training98RH62-AZT/
 
 
 
