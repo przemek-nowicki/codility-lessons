@@ -17,6 +17,7 @@ These tasks solutions are written in JavaScript and Python languages.
 * GenomicRangeQuery: https://app.codility.com/demo/results/training34WW7J-8VJ/
 * MinAvgTwoSlice: https://app.codility.com/demo/results/training98RH62-AZT/
 * Distinct: https://app.codility.com/demo/results/training7XY6GT-S9C/
+* MaxProductOfThree: https://app.codility.com/demo/results/trainingBYHPGM-CW9/
 
 
 
