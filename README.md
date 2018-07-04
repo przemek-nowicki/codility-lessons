@@ -16,6 +16,7 @@ These tasks solutions are written in JavaScript and Python languages.
 * PassingCars: https://app.codility.com/demo/results/training7XZK4S-6J3/
 * GenomicRangeQuery: https://app.codility.com/demo/results/training34WW7J-8VJ/
 * MinAvgTwoSlice: https://app.codility.com/demo/results/training98RH62-AZT/
+* Distinct: https://app.codility.com/demo/results/training7XY6GT-S9C/
 
 
 
