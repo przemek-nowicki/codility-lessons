@@ -19,7 +19,7 @@ These tasks solutions are written in JavaScript and Python languages.
 * Distinct: https://app.codility.com/demo/results/training7XY6GT-S9C/
 * MaxProductOfThree: https://app.codility.com/demo/results/trainingBYHPGM-CW9/
 * Triangle: https://app.codility.com/demo/results/trainingMBJJ46-SKK/
-
+* NumberOfDiscIntersections: https://app.codility.com/demo/results/trainingP294BQ-ZJK/ ; https://app.codility.com/demo/results/trainingVNT5GB-SED/
 
 
 
