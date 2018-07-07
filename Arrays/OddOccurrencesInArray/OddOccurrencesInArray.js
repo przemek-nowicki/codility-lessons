@@ -8,6 +8,8 @@ function solution(A) {
     for(let i=0; i<A.length; i++) {
         pairs[A[i]] = pairs[A[i]] ? pairs[A[i]]+1 : 1;
     }
-    const unpaired = Object.keys(pairs).filter(a => pairs[a] === 1);
-    return unpaired[0] ? parseInt(unpaired[0]) : 0;
+    for(let key in pairs) {
+        if(pairs[ key ] % 2 === 1)
+            return +key;
+    }
 }
