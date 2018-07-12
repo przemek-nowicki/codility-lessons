@@ -22,6 +22,7 @@ These tasks solutions are written in JavaScript and Python languages.
 * NumberOfDiscIntersections: https://app.codility.com/demo/results/trainingP294BQ-ZJK/ ; https://app.codility.com/demo/results/trainingVNT5GB-SED/
 * Nesting: https://app.codility.com/demo/results/trainingWBXYBF-R4G/
 * Brackets: https://app.codility.com/demo/results/training74BDE8-DUF/
+* Fish: https://app.codility.com/demo/results/trainingYRR7XM-DF8/
 
 
 
