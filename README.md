@@ -25,6 +25,7 @@ These tasks solutions are written in JavaScript and Python languages.
 * Fish: https://app.codility.com/demo/results/trainingYRR7XM-DF8/
 * StoneWall: https://app.codility.com/demo/results/trainingGKZ8M9-MCV/
 * Dominator: https://app.codility.com/demo/results/trainingPEYUQT-DAE/
+* EquiLeader: https://app.codility.com/demo/results/training7P37NX-SSJ/
 
 
 
