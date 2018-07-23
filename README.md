@@ -23,6 +23,7 @@ These tasks solutions are written in JavaScript and Python languages.
 * Nesting: https://app.codility.com/demo/results/trainingWBXYBF-R4G/
 * Brackets: https://app.codility.com/demo/results/training74BDE8-DUF/
 * Fish: https://app.codility.com/demo/results/trainingYRR7XM-DF8/
+* StoneWall: https://app.codility.com/demo/results/trainingGKZ8M9-MCV/
 
 
 
