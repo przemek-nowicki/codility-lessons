@@ -29,5 +29,5 @@ These tasks solutions are written in JavaScript and Python languages.
 * MaxSliceSum: https://app.codility.com/demo/results/training4VNJ38-2AC/
 * MaxProfit: https://app.codility.com/demo/results/training865HJ3-U68/
 * MaxDoubleSliceSum: https://app.codility.com/demo/results/trainingKAEHBU-EX6/
-
+* CountFactors: https://app.codility.com/demo/results/trainingDSVQMA-TRD/
 
