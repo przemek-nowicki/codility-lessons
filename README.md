@@ -30,4 +30,5 @@ These tasks solutions are written in JavaScript and Python languages.
 * MaxProfit: https://app.codility.com/demo/results/training865HJ3-U68/
 * MaxDoubleSliceSum: https://app.codility.com/demo/results/trainingKAEHBU-EX6/
 * CountFactors: https://app.codility.com/demo/results/trainingDSVQMA-TRD/
+* MinPerimeterRectangle: https://app.codility.com/demo/results/training8DGQJE-Z4R/
 
